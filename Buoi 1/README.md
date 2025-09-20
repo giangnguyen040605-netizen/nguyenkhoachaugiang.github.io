@@ -6,5 +6,5 @@
 ### BT[01] - Cài đặt và làm quen môi trường Python
 #### Cài đặt Anaconda3
 #### Quản trị môi trường Anaconda 
-#### Lập trình JupyterLab
+#### Lập trình trên JupyterLab
 #### Tính toán đơn giản
